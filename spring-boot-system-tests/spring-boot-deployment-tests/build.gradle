@@ -4,7 +4,7 @@ plugins {
 	id "org.springframework.boot.system-test"
 }
 
-description = "Spring Boot Deployment Tests"
+description = "Spring Boot Deployment TestsABC"
 
 configurations {
 	providedRuntime {
